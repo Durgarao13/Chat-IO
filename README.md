@@ -1,6 +1,5 @@
-# NodeJs Projects
-## Project#07: ChatIO
-
+# ChatIO
+User and msg sessions
 - NodeJs + Express
 - Simple SocketIO chat application
 - No CRUD just user and msg sessions
